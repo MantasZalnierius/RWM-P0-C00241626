@@ -1,0 +1,7 @@
+{
+	"name": "ie.itcarlow.modulo3filter",
+	"version": "0.1.0",
+	"displayName": "Modulo3",
+	"description": "A filter that mods numbers by 3",
+	"unity": "2020.3"
+}
